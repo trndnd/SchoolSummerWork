@@ -21,4 +21,4 @@
 #Weight1 = int(input("Whats the first weigths size? (in kg) "))
 #Weight2 = int(input("Whats the first weigths size? (in kg) "))
 #average = (Weight1 + Weight2) / 2
-print(average)
+#print(average)
