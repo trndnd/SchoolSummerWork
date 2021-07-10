@@ -17,6 +17,6 @@
 #print(Favourite_Subject)
 #print(age)
 #5
-print("What's your name? ")
-name = input()
-print(5 * f" {name}")
+#print("What's your name? ")
+#name = input()
+#print(5 * f" {name}")
