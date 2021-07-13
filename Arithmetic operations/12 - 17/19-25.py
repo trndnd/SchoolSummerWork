@@ -26,4 +26,22 @@
 #    print("I don't have any jokes")
 #else:
 #    print("Error")
-
+#23
+#print("Waht mark did you get on your test? ")
+#Mark = int(input())
+#if Mark >= 90:
+    #print("A*")
+#elif Mark >= 80:
+#    print("A")
+#elif Mark >= 70:
+#    print("B")
+#elif Mark >= 60:
+#    print("C")
+#else:
+#    print("Fail")
+#24
+#print("What's your favourite band? ")
+#Favourite_Band = input()
+#print("What's your favourite song? ")
+#Favourite_Song = input()
+#print(f"Your favourite band is {Favourite_Band} and your favourite song is {Favourite_Song}")
