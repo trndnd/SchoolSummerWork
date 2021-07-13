@@ -25,4 +25,3 @@ Away_Team_Goals = int(input("How many goals did the away team score? "))
 Difference = Home_Team_Goals - Away_Team_Goals
 print(Difference)
 #17 not there
-
