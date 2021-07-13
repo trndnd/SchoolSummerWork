@@ -16,4 +16,14 @@
 #    print("Welcome Tom")
 #else:
 #    print("Hello stranger")
+#22
+#print("Hello user")
+#print("How are you feeling? (Happy or sad)")
+#Emotion = input()
+#if Emotion.lower() == "happy":
+#    print("Glad to hear it!")
+#elif Emotion.lower() == "sad":
+#    print("I don't have any jokes")
+#else:
+#    print("Error")
 
