@@ -1,7 +1,7 @@
 #19
-#Mancity_Goals = 60
-#ManUnited_Goals = 51
-#print(Mancity_Goals > ManUnited_Goals)
+Mancity_Goals = 60
+ManUnited_Goals = 51
+print(Mancity_Goals > ManUnited_Goals)
 #20
 print("How old are you? ")
 Age = int(input())
