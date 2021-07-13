@@ -9,3 +9,11 @@
     #print("You are old enough to vote")
 #else:
     #print("You are not allowed to vote")
+#21
+#print("What is your name? ")
+#Name = input()
+#if Name == "Tom":
+#    print("Welcome Tom")
+#else:
+#    print("Hello stranger")
+
