@@ -45,3 +45,8 @@
 #print("What's your favourite song? ")
 #Favourite_Song = input()
 #print(f"Your favourite band is {Favourite_Band} and your favourite song is {Favourite_Song}")
+#25
+Number1 = int(input("What is your first number? "))
+Number2 = int(input("What is your second number? "))
+answer = Number1 * Number2
+print(answer)
