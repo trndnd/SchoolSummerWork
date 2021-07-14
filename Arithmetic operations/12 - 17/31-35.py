@@ -17,11 +17,8 @@ Traffic_Light_Colour_Dictionary = {
     "yellow":"Get ready",
     "green":"GO"
 }
-try:
-    Message = Traffic_Light_Colour_Dictionary[Traffic_Light_Colour.lower()]
-    print(Message)
-except KeyError:
-    print("error")
+Response = Traffic_Light_Colour_Dictionary.get(Traffic_Light_Colour, "error")
+print(Response)
 #32
 username = "Hello"
 Password = "World"
