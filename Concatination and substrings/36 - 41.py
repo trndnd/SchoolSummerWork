@@ -22,3 +22,13 @@ if len(Color_Choice) == 6:
 else:
     print("Incorrect")
 #40
+First_Name = input("What is your first name? ")
+Surname = input("What is your surname? ")
+print(First_Name[0])#Outputs the first leeter of the first name
+print(First_Name[0:4])#Ouputs first 4 letters of the name
+print(Surname[-1])#Outputs last letter of suraname
+#41
+print("Enter a quote")
+Quote = input()
+print(Quote.upper())
+print(Quote.lower())
