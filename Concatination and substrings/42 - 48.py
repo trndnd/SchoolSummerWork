@@ -43,7 +43,10 @@ for char in Quote:
     elif char == " ":
         Conatins_Space = True
 
-
-
-
+if Contains_Letter:
+    print("Conatins a letter")
+if Conatins_Space:
+    print("Contains a space")
+if Contains_Number:
+    print("Contains a number")
 
