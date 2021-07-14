@@ -1,5 +1,4 @@
 #42
-'''
 Name = input("What is your name? ")
 Upper_or_Lower = input("Do you want it to be uppercase or lowercase (upper/lower)")
 if Upper_or_Lower.lower() == "upper":
@@ -28,7 +27,7 @@ print("Good \t Game")
 #46
 Quote = input("Enter a quote ")
 Number_Of_Time_i_Appears = Quote.count("i")
-print(f"i appears {Number_Of_Time_i_Appears} times")'''
+print(f"i appears {Number_Of_Time_i_Appears} times")
 #47
 Contains_Letter = False
 Contains_Number = False
@@ -49,4 +48,8 @@ if Conatins_Space:
     print("Contains a space")
 if Contains_Number:
     print("Contains a number")
+#48
+Favourite_Hobby = input("What is your favourite hobby? ")
+Splitting_At_f = Favourite_Hobby.split("f")
+
 
