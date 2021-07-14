@@ -1,17 +1,6 @@
 #31
 print("What's the color of the traffic light? ")
 Traffic_Light_Colour = input()
-if Traffic_Light_Colour.lower() == "red":
-    print("STOP")
-elif Traffic_Light_Colour.lower() == "yellow":
-    print("Get ready")
-elif Traffic_Light_Colour.lower() == "green":
-    print("GO")
-else:
-    print("error")
-#Also 31
-print("What's the color of the traffic light? ")
-Traffic_Light_Colour = input()
 Traffic_Light_Colour_Dictionary = {
     "red":"STOP",
     "yellow":"Get ready",
