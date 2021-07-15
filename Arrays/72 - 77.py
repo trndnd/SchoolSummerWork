@@ -18,4 +18,16 @@ Games_Array = []
 for x in range(4):
     Game = input("Enter a game ")
     Games_Array.append(Game)
-print(Games_Array)'''
+print(Games_Array)
+#76
+Towns_Array = ["Barton","Uttoxeter","Walsall","Loxley"]
+print(Towns_Array[0])
+print(Towns_Array[-1])
+print(Towns_Array[:2])'''
+#77
+Array = []
+for x in range(5):
+    Number = int(input("Enter a number "))
+    Array.append(Number)
+
+print(Array[::-1])
