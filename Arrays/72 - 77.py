@@ -1,6 +1,5 @@
 import numpy as np
 #72
-'''
 Movie_Array = ["Weathering with you","your name","End game","Black panther"]
 print(Movie_Array[0])
 print(Movie_Array[-1])
@@ -23,7 +22,7 @@ print(Games_Array)
 Towns_Array = ["Barton","Uttoxeter","Walsall","Loxley"]
 print(Towns_Array[0])
 print(Towns_Array[-1])
-print(Towns_Array[:2])'''
+print(Towns_Array[:2])
 #77
 Array = []
 for x in range(5):
