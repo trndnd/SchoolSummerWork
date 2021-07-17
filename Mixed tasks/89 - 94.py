@@ -1,6 +1,5 @@
 #89
 import random
-'''
 Singers_Array = []
 for x in range(3):
     Singer = input("Name me a singer ")
@@ -32,7 +31,7 @@ for x in range(5):
     Random_Number_Array.append(Random_Number)
     print(f"The random number is {Random_Number}")
 Random_Number_Array.sort()
-print(Random_Number_Array)'''
+print(Random_Number_Array)
 #94
 Numbers_wanting_To_Be_Generated = int(input("How many numbers do you want to generate? "))
 Minimum_Number = int(input("What's the minimum value do you want it to be? "))
