@@ -12,11 +12,17 @@ for x in range(3):
     Name = input("What is your name? ")
     Names_Array.append(Name)
 for Name in Names_Array:
-    Names_File_Appending.write(f"{Name} \n")'''
+    Names_File_Appending.write(f"{Name} \n")
 #104
 Numbers_File = open("Task104.txt","a")
 print("How many numbers do you want to enter? ")
 How_Many_Numbers_Wanted_To_Add_To_File = int(input())
 for x in range(How_Many_Numbers_Wanted_To_Add_To_File):
     Number = int(input("Enter a number "))
-    Numbers_File.write(f"{Number} \n")
+    Numbers_File.write(f"{Number} \n")'''
+#105
+Details_File = open("Task105.txt","a")
+First_Name = input("What is your first name? ")
+Surname = input("What is your surname? ")
+Age = int(input("How old are you? "))
+Address = input("What's your address? ")
