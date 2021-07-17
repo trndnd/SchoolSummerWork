@@ -14,3 +14,9 @@ for x in range(1,len(grades[0])):
 
 Average = Sum_Grade/(len(grades[0]) - 1)
 print(Average)
+#88
+Pupils_Array = [["Alex Chadwick","7+"],["Seema Patel","5-"],["Dion Scott","6-"],["Emma Baldridge","8"],["Gareth Wild","8+"]]
+Pupils_Array.remove(["Emma Baldridge","8"])
+print(Pupils_Array)
+Pupils_Array.append(["Jonathan Pierce","5+"])
+print(Pupils_Array)
