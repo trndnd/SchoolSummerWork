@@ -1,0 +1,8 @@
+Barcelona,Lionel Messi
+Bayern,Robert Lewandowski
+Dortmund,Jadon Sancho
+Real Madrid,Toni Kroos
+PSG,Neymar Jr.
+Man City,João Cancelo
+Zenit,Artem Dzyuba
+Juventus,Cristiano Ronaldo
